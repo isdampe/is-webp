@@ -1,0 +1,22 @@
+{
+  "name": "is-webp",
+  "version": "1.0.0",
+  "description": "Check whether a given file is a WebP image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isdampe/is-webp.git"
+  },
+  "keywords": [
+    "webp"
+  ],
+  "author": "isdampe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isdampe/is-webp/issues"
+  },
+  "homepage": "https://github.com/isdampe/is-webp#readme"
+}
