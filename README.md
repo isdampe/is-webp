@@ -3,7 +3,7 @@
 ## Usage
 
 ```javascript
-const isWebP = require("is-webp");
+const isWebP = require("file-is-webp");
 
 const main = async () => {
 	console.log(`Async result: ${await isWebP.testSync("image.jpg")}`);
@@ -11,5 +11,4 @@ const main = async () => {
 }
 
 main();
-
 ```

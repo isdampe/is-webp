@@ -1,5 +1,5 @@
 {
-  "name": "is-webp",
+  "name": "file-is-webp",
   "version": "1.0.0",
   "description": "Check whether a given file is a WebP image.",
   "main": "index.js",
